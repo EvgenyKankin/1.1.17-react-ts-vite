@@ -1,4 +1,4 @@
 React + TypeScript + Vite
 
 Deploy:
-https://evgenykankin.github.io/1.1.17-react-ts-vite/
+https://evgenykankin.github.io/1.3.6-react-ts-vitest/
